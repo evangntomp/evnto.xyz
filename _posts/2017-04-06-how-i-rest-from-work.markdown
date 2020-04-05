@@ -2,7 +2,7 @@
 layout: post
 title: Your resume is not enough! 
 date: 2017-09-12 
-description:Oh sorry, this is not about your resume! This is my perspective on what recruiters need to know about you! # Add post description (optional)
+description: Oh sorry, this is not about your resume! This is my perspective on what recruiters need to know about you! # Add post description (optional)
 img: resume-not-enough.jpg.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [resume, recruiter, business, companies, HR, Human Resurces]
