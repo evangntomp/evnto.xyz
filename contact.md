@@ -31,7 +31,6 @@ title: Contact
 </label>
 	<input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
-<p><a href="https://us19.campaign-archive.com/home/?u=5581cbdd922dd9f7ef066247b&id=fc718f8973" title="View previous campaigns">View previous campaigns.</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
