@@ -21,7 +21,7 @@ social-email: vagelisdob@gmail.com
 discus-identifier: evnto-xyz
 
 # Tracker
-analytics: # Google Analytics
+analytics: 'UA-163088876-2' # Google Analytics
 
 # Build Settings
 markdown: kramdown
