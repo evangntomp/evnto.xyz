@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Group Dynamics: Abeline Paradox
+title: "Group Dynamics: Abeline Paradox"
 date: 09-04-2020
 description: Have you ever been to Abeline? Before you answer read the article! # Add post description (optional)
 img: group-of-people-using-laptops-1560932jpg # Add image post (optional)
