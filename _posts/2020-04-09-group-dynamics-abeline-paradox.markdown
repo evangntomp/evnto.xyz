@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Group Dynamics: Abeline Paradox
-date: 2020-09-04
+date: 2020-04-09
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: group-of-people-using-laptops.jpg # Add image post (optional)
+img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Group Dynamics, HR, Groupthink] # add tag
 ---
