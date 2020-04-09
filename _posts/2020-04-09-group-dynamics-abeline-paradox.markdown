@@ -5,7 +5,7 @@ date: 09-04-2020
 description: Have you ever been to Abeline? Before you answer read the article! # Add post description (optional)
 img: group-of-people-using-laptops-1560932.jpg # Add image post (optional)
 fig-caption: 
-tags: [Group Dynamics, Human Resurces]
+tags: [Group Dynamics, Human Resources]
 ---
 
 Decision-making is one of the most important procedures in team management. What I mean is that a small decision could affect the rest of the project and the results. Decision-making could be the manager's responsibility or a team process. Arguments exist between supporters of both sides. On one hand, are those who support that the decision-making is upon the manager who is responsible for the project, on the other hand, are those who are convinced that decision making it's a group thing. To make matters clear, making decisions as a group is unavoidable and the best tactic to increase the team's accountability. 
