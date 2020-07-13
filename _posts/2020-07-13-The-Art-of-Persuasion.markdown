@@ -1,3 +1,4 @@
+---
 layout: post
 title: The Art of Persuasion
 date: 13-07-2020
@@ -5,6 +6,7 @@ description: If you think carefully you will surely remember a time that you nee
 img: market13.jpg
 fig-caption: 
 tags: [negotiation, psychology]
+---
 
 # The Art of Persuasion
 
