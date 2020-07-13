@@ -1,3 +1,10 @@
+layout: post
+title: The Art of Persuasion
+date: 13-07-2020
+description: If you think carefully you will surely remember a time that you needed to persuate someone. The sience of persuasion makes the people say yes to our requests in totaly ethcal way. 
+img: market13.jpg
+fig-caption: 
+tags: [negotiation, psychology]
 
 # The Art of Persuasion
 
